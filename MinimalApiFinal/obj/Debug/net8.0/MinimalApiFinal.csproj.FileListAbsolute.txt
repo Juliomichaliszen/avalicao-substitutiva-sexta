@@ -1,0 +1,6 @@
+C:\Users\julio\MinimalApiFinal\obj\Debug\net8.0\MinimalApiFinal.csproj.AssemblyReference.cache
+C:\Users\julio\MinimalApiFinal\obj\Debug\net8.0\MinimalApiFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\MinimalApiFinal\obj\Debug\net8.0\MinimalApiFinal.AssemblyInfoInputs.cache
+C:\Users\julio\MinimalApiFinal\obj\Debug\net8.0\MinimalApiFinal.AssemblyInfo.cs
+C:\Users\julio\MinimalApiFinal\obj\Debug\net8.0\MinimalApiFinal.csproj.CoreCompileInputs.cache
+C:\Users\julio\MinimalApiFinal\obj\Debug\net8.0\MinimalApiFinal.MvcApplicationPartsAssemblyInfo.cache
